@@ -1,0 +1,3 @@
+测试,#genre#
+Test1,http://107.150.60.122/live/cctv1hd.m3u8
+Test5,http://107.150.60.122/live/cctv5hd.m3u8
