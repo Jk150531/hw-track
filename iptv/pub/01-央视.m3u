@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5",CCTV5
+http://118.193.115.2:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4",CCTV4
+http://118.193.115.2:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7",CCTV7
+http://118.193.115.2:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14",CCTV14
+http://118.193.115.2:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13",CCTV13
+http://118.193.115.2:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12",CCTV12
+http://118.193.115.2:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6",CCTV6
+http://118.193.115.2:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15",CCTV15
+http://27.129.145.110:4433/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN Russian",CGTN Russian
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9",CCTV9
+http://play.kankanlive.com/live/1698423397390920.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2",CCTV2
+http://27.129.145.110:4433/hls/2/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8",CCTV8
+http://118.193.115.2:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11",CCTV11
+http://27.129.145.110:4433/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3",CCTV3
+http://118.193.115.2:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CGTN纪录",CGTN纪录
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10",CCTV10
+http://118.193.115.2:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1",CCTV1
+http://27.129.145.110:4433/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5+",CCTV5+
+http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16",CCTV16
+http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN西语",CGTN西语
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17",CCTV17
+http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-14",CCTV-14
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN Arabic",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV女性时尚",CCTV女性时尚
+http://dassby.qqff.top:99/live/女性时尚/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV第一剧场",CCTV第一剧场
+http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV风云剧场",CCTV风云剧场
+http://dassby.qqff.top:99/live/风云剧场/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV风云足球",CCTV风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV怀旧剧场",CCTV怀旧剧场
+http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-NEWS",CCTV-NEWS
+http://183.11.239.36:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-2",CCTV-2
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN英语",CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV世界地理",CCTV世界地理
+http://120.76.248.139/live/bfgd/4200000177.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV央视台球",CCTV央视台球
+http://dassby.qqff.top:99/live/央视台球/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-10科教",CCTV-10科教
+http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视" tvg-name="CCTV电视指南",CCTV电视指南
+http://120.76.248.139/live/bfgd/4200000164.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN法语",CGTN法语
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-9 纪录",CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8d9e4d56b1405ac9b7539cf7ec81420e
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-13新闻",CCTV-13新闻
+http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视" tvg-name="CCTV+ 2",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV+ 1",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-13",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-9 (576i)",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4K",CCTV4K
+http://107.150.52.50:82/live/cctv4k.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8K",CCTV8K
+http://107.150.52.50:82/live/cctv8k.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV★移动传媒",CCTV★移动传媒
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10576",CCTV10576
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN俄语",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CGTN记录",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV卫生健康",CCTV卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-name="CCTV发现之旅",CCTV发现之旅
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-name="CCTV老故事",CCTV老故事
+http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-name="CCTV兵器科技",CCTV兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-name="CCTV央视文化精品",CCTV央视文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-8 (720p)",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-7 (720p)",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-3 (720p)",CCTV-3 (720p)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-10 (720p)",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-11 (720p)",CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-2 (720p)",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV高尔夫网球",CCTV高尔夫网球
+http://204.12.221.218:8181/3m1080p/gefwq.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-1 (720p)",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV文化精品",CCTV文化精品
+http://204.12.221.218:8181/3m1080p/ysjp.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-12",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-卫生健康",CCTV-卫生健康
+http://204.12.221.218:8181/3m1080p/wsjk.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-17 (1080p)",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-15 (720p)",CCTV-15 (720p)
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-14 (1080p)",CCTV-14 (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-11",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-13 (720p)",CCTV-13 (720p)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-15",CCTV-15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-央视高网",CCTV-央视高网
+http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
